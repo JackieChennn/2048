@@ -8,10 +8,10 @@ This implementation faithfully replicates the behavior and rules of the original
 
 ### Screenshots
 Game Start
-![game start](https://github.com/JackieChennn/2048/tree/master/pictures/game_start.png?raw=true)
+![game start](/pictures/game_start.png?raw=true)
 
 Game Over
-![game over](https://github.com/JackieChennn/2048/tree/master/pictures/game_over.png?raw=true)
+![game over](/pictures/game_over.png?raw=true)
 
 
 ### How to Play
