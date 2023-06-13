@@ -49,6 +49,6 @@ The original 2048 game was created by Gabriele Cirulli. This implementation is a
 Special thanks to CS61B from University of California, Berkeley.
 
 ### Contact
-If you have any questions, suggestions, or feedback, you can reach me at [your-email@example.com].
+If you have any questions, suggestions, or feedback, you can reach me at [jackie.jiachengchen@gmail.com].
 
 ## Enjoy the game!
