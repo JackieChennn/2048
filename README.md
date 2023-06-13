@@ -7,10 +7,12 @@ Welcome to the 2048 game! This implementation of the popular puzzle game has bee
 This implementation faithfully replicates the behavior and rules of the original 2048 game.
 
 ### Screenshots
-Game Start
+#### Game Start
+
 ![game start](/pictures/game_start.png?raw=true)
 
-Game Over
+#### Game Over
+
 ![game over](/pictures/game_over.png?raw=true)
 
 
