@@ -25,7 +25,7 @@ To play the game, follow these simple steps:
  - After each move, a new tile will be randomly generated on an empty spot.
  - Try to combine tiles with the same number to create larger numbers and reach the 2048 tile.
  - The game ends when there are no more valid moves available.
- - The final score will be displayed, and you can choose to play again if desired.
+ - The final score will be displayed at the bottom.
 ### Development Setup
 To set up the development environment and run the game locally, follow these steps:
 
